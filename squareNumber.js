@@ -1,8 +1,3 @@
-/* Aidan Le-Beard
-Dr. Sarah North
-CS 4720 / W01
-Assignment 2, Part 1, Script 1 */
-
 // squareNumber function -- squares the input it receives
 function squareNumber(input) { // function takes an argument
   /* We named the paragraph <p> resultOfSquare, so we get the Element,
