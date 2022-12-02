@@ -1,4 +1,4 @@
-# 3-Script-Website-Square-Number-Replace-Repeated-Character-Replace-Substring
+# Website-3-Script-Square-Number-Replace-Repeated-Character-Replace-Substring
 
 ## You do NOT have permission to use this code for any schoolwork purposes under any circumstances. 
 
@@ -9,3 +9,7 @@ This webpage has 3 scripts: one that squares a number on pushing a button, one t
 ## To execute on Windows:
 
 Download all files into a folder, and open Mod_2_Assignment_1.html into a web browser such as Chrome.
+
+## Sample Output:
+
+![image](https://user-images.githubusercontent.com/33675444/205220367-65c3eed8-3d97-4c06-83ef-ca7ca966f407.png)
