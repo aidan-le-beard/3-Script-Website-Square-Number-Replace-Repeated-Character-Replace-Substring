@@ -1,8 +1,3 @@
-/* Aidan Le-Beard
-Dr. Sarah North
-CS 4720 / W01
-Assignment 2, Part 1, Script 3 */
-
 // notBad function -- if the first appearance of not and bad lead to sub string "not...bad" in that order, the substring is replaced with "good"
 function notBad(input) {
 
