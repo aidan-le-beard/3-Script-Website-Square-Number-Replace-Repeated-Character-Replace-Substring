@@ -1,8 +1,3 @@
-/* Aidan Le-Beard
-Dr. Sarah North
-CS 4720 / W01
-Assignment 2, Part 1, Script 2 */
-
 // fixStart function -- changes all subsequent appearances of the first character to "*"
 function fixStart(notReplaced) { // take single string argument
 
