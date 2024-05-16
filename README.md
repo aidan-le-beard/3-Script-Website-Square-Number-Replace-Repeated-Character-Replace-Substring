@@ -4,7 +4,7 @@
 
 ## You do NOT have permission to use this code for any commercial purposes without speaking to me to work out a deal.
 
-This webpage has 3 scripts: one that squares a number on pushing a button, one that replaces any other occurrences of the first character of a string with "*", and one that replaces substring "not ... bad" with good. Try it here: https://studentweb.kennesaw.edu/~alebeard/Mod_2_Assignment_1.html?
+This webpage has 3 scripts: one that squares a number on pushing a button, one that replaces any other occurrences of the first character of a string with "*", and one that replaces substring "not ... bad" with good. Try it here: https://aidan-le-beard.github.io/Mod_2_Assignment_1.html?
 
 ## To execute on Windows:
 
